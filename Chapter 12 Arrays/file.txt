@@ -1,0 +1,8 @@
+this
+goes
+into an
+array
+1
+4
+6
+99
