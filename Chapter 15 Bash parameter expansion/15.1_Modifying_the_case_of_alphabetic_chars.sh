@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+v="hello"
+echo "${v^}"
+echo "${v^^}"
+x="BYE"
+echo "${x,}"
+echo "${x,,}"
+y="Hello World"
+echo "${y~~}"
+echo "${y~}"
