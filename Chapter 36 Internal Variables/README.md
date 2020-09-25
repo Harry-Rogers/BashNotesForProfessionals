@@ -1,1 +1,1 @@
-![BashPic](/BashBoi.jpg)
+![BashPic](BashBoi.JPG)
