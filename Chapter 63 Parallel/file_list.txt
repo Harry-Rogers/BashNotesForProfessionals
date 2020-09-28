@@ -1,0 +1,4 @@
+file1.txt.bz2
+file2.txt.bz2
+dogs.txt.bz2
+cats.txt.bz2
